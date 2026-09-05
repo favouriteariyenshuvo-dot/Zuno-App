@@ -1,0 +1,6 @@
+{
+  "name": "Zuno",
+  "description": "International social networking and community platform to connect, share content, exchange skills, and explore marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
